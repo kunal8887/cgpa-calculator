@@ -1,4 +1,5 @@
-//This C++ PROGRAM is developed by S M OHIDUL ALAM,and special right is given to MobTutorial.com for educational purpose  
+/*This C++ PROGRAM is developed by S M OHIDUL ALAM,and 
+special right is given to MobTutorial.com for educational purpose  */
 //Don't copy source code without permission
 
 
